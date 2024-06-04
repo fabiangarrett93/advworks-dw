@@ -1,4 +1,4 @@
-Aversion: 2
+version: 2
 
 sources:
   - name: humanresources
@@ -23,7 +23,6 @@ sources:
      - name: emailaddress
      - name: personphone
      - name: phonenumbertype
-
 
 models:
   - name: stg_employee
